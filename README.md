@@ -1,9 +1,7 @@
 
 # 🥝 NatsCodes
 
-
-Aquí encontrarás los proyectos y habilidades en las  que estoy trabajando!
-
+¡Aquí encontrarás los proyectos y habilidades en las  que estoy trabajando!
 
 #####  🌱 Actualmente estudiando:
 
@@ -13,6 +11,6 @@ Aquí encontrarás los proyectos y habilidades en las  que estoy trabajando!
 
 #### 💻 Trabajando en:
 
-- Reconocimiento automático de matricula usando SVM - Degree work.
+- Reconocimiento automático de matricula usando SVM - Trabajo de grado.
 
 - Mi primera página web! Vísitala! [Hyperblog](https://github.com/rsnati/hyperblog "Hyperblog")
