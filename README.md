@@ -1,16 +1,22 @@
 
-# 🥝 Natsdev
+# 👾 Natsdev
 
-¡Aquí encontrarás los proyectos y habilidades en las  que estoy trabajando!
+Hi there👋! My name is Natalia and I'm from Venezuela.  
 
-#####  🌱 Actualmente estudiando:
 
-- Desarrollo web orientado a Frontend
 
-- Machine learning.
 
-#### 💻 Trabajando en:
+#### What I currently learning?
+- 👩‍💻 I'm  Front end web developer junior in trainning. 
 
-- Reconocimiento automático de matricula usando SVM - Trabajo de grado.
+#### Working on:
 
-- Mi primera página web! Vísitala! [Hyperblog](https://github.com/rsnati/hyperblog "Hyperblog")
+- 🌟 Developing my first web site.  Go and visit itl ! Know me better!
+
+- 🧠 Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my degree work as a eletrical engineering student ⚡.
+
+
+#### Little more about me 
+-  Art inspire me and I love minimalism. 
+- I love 90's aesthetics.
+- Sometimes gamer and sometimes anime fan. 
