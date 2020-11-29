@@ -13,7 +13,7 @@ Thank's for view my work! Happy to recieve any feedback!
 
 - 🌟 Developing my first web site.  Go and visit  [Knowsnat](https://natsdev.github.io/knowsnat/ "Knowsnat")!
 
-- 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my degree work as a  eletrical engineering student . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
+- 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about machine learnin and computer vision for electrical engineering degree . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
 
 
 ### Little more about me  ✨
