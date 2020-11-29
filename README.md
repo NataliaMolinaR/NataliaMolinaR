@@ -1,5 +1,5 @@
 
-# 🥝 NatsCodes
+# 🥝 Natsdev
 
 ¡Aquí encontrarás los proyectos y habilidades en las  que estoy trabajando!
 
