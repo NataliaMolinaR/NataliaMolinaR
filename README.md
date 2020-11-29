@@ -2,7 +2,7 @@
 
 Hi there👋! My name is Natalia and I'm from Venezuela.  
 
-Thank's for view my work! Happy to recieve any feedback! 
+Thank's for view my works! Happy to receive any feedback! 
 
 
 ### What I currently learning 🌱?
@@ -13,7 +13,7 @@ Thank's for view my work! Happy to recieve any feedback!
 
 - 🌟 Developing my first web site.  Go and visit  [Knowsnat](https://natsdev.github.io/knowsnat/ "Knowsnat")!
 
-- 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about machine learnin and computer vision for electrical engineering degree . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
+- 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about ML and computer vision for electrical engineering degree . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
 
 
 ### Little more about me  ✨
