@@ -1,23 +1,26 @@
-# 👾 Natalia Molina
+# Natalia Molina
 
-Hi there👋! My name is Natalia and I'm from Venezuela.  
+Hi there👋! My name is Natalia, I'm a Electric engineer and I'm from Venezuela.  
 
-Thank's for view my works! Happy to receive any feedback! 
+Thank's for checking my work! Happy to receive any feedback! 
 
 
 ### What I currently learning 🌱?
-- 👩‍💻 I'm  Front end web developer junior in trainning. 
-- 🧠 Machine learning basics, SVM.
 
-### Working on 🚀:
+- 👩‍💻 I'm currently stuyding Data Analytics . 
 
-- 🌟 Developing my first web site.  Go and visit  [Knowsnat](https://natsdev.github.io/knowsnat/ "Knowsnat")!
+
+
+### Some of my best works 💥
 
 - 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about ML and computer vision for electrical engineering degree . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
 
 
-### Little more about me  ✨
--  💭 Art inspire me and I love minimalism. 
--  🔮 I love 90's aesthetics.
-- 🕹️ Sometimes gamer and sometimes anime fan. 
+### More about me🚀
+
+- 🔧 Strong analytical and problem-solving skills.
+- 📊 Curiosity for discover patterns behind data in everyday situations.
+- 📅 Organized and balance handle speed with accuracy.
+- 👥 Effectively manage relationships and communication with stakeholders and team work.
+
 
