@@ -1,6 +1,6 @@
 # Natalia Molina
 
-Hi there👋! My name is Natalia, I'm a Electric engineer and I'm from Venezuela.  
+Hi there👋! My name is Natalia, I'm a Electrical engineer and I'm from Venezuela.  
 
 Thank's for checking my work! Happy to receive any feedback! 
 
