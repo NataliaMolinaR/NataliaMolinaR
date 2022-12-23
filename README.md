@@ -13,7 +13,7 @@ Thank's for checking my work! Happy to receive any feedback!
 
 ### Some of my best works 💥
 
-- 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about ML and computer vision for electrical engineering degree . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
+- 👁️‍🗨️ Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about ML and computer vision (Final project to Electrical engineering degree) . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
 
 
 ### More about me🚀
