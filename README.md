@@ -7,7 +7,7 @@ Thank's for checking my work! Happy to receive any feedback!
 
 ### What I currently learning 🌱?
 
-- 💻 I'm taking Data Analytics Google Certificate . 
+- I'm taking Data Analytics Google Certificate . 
 
 
 ### Some of my best works 💥
