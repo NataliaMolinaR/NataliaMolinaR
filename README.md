@@ -1,13 +1,13 @@
 # Natalia Molina
 
-Welcome! My name is Natalia, I'm a Electrical engineer and I'm from Venezuela.  
+Welcome! My name is Natalia, I'm a Electrical engineer and I'm currently living in EEUU.  
 
 Thank's for checking my work! Happy to receive any feedback! 
 
 
 ### What I currently learning 🌱?
 
-- I'm taking Data Analytics Google Certificate . 
+- I'm taking Data Analytics Google Certificate. ¿Are you too? Let's talk about it!
 
 
 ### Some of my best works 🚀
@@ -17,9 +17,9 @@ Thank's for checking my work! Happy to receive any feedback!
 
 ### More about me 
 
-- 🔧 Strong analytical and problem-solving skills.
+- 🔧 As an engineer I gain a strong analytical and problem-solving skills.
 - 📊 Curiosity for discover patterns behind data in everyday situations.
-- 📅 Organized and balance handle speed with accuracy.
-- 👥 Effectively manage relationships and communication with stakeholders and team work.
+- 📅 I'm organized and able to adapt unexpected changes.
+- 👥 As I developed project I build effective communication and teamwork skills.
 
 
