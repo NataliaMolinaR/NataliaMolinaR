@@ -8,8 +8,8 @@ Thank's for checking my work! Happy to receive any feedback!
 ### What I currently learning 🌱?
 
 - I'm taking Data Analytics Google Certificate. ¿Are you too? Let's talk about it!
-- 
-- Creating Interactive and Insightful Data Visualizations in [Tableau](https://public.tableau.com/app/profile/natalia.molina7375).
+
+- Creating Interactive and Insightful Data Visualizations in [Tableau public](https://public.tableau.com/app/profile/natalia.molina7375).
 
 
 ### Some of my best works 🚀
