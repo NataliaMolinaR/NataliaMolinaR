@@ -16,7 +16,7 @@ Thank's for checking my work! Happy to receive any feedback!
 
 -  Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about ML and computer vision (Final project to Electrical engineering degree) . [ANPR](http://https://github.com/natsdev/Character_extraction "ANPR")
 
-- [Covid Impact in 2023 Dashboard] ([http://https://github.com/natsdev/Character_extraction "ANPR"](https://public.tableau.com/app/profile/natalia.molina7375/viz/CovidAnalysis2023_16823665003210/Dashboard1) - Check how is your country going in this map! 
+- [Covid Impact in 2023 Dashboard] ([http://https://github.com/natsdev/Character_extraction "ANPR"](https://public.tableau.com/app/profile/natalia.molina7375/viz/CovidAnalysis2023_16823665003210/Dashboard1 ) - Check how is your country going in this map! 
 
 
 ### More about me 
