@@ -1,30 +1,31 @@
-# Natalia Molina
+# Hi, I'm Natalia Molina 👋
 
-Welcome! My name is Natalia, I'm a transitioning to Data Analytics field and I'm currently living in EEUU.  
+Data analyst with an Electrical Engineering background, based in the US.
+I like data with a human side — the kind that helps people decide something real.
 
-Thank's for checking my work! Happy to receive any feedback! 
+## What I do
 
+I take messy, scattered data and make it usable: I clean it, remove
+duplicates, and dig in until a clear pattern shows up.
 
-### What I currently learning 🌱?
+- **Clean & structure** inconsistent or scattered data
+- **Deduplicate & validate** — catch the same record showing up in different forms
+- **Analyze** to surface patterns worth acting on
+- **Communicate** findings through dashboards people can read at a glance
 
-- I'm taking Data Analytics Google Certificate. ¿Are you too? Let's talk about it!
+## Technical skills
 
-- Creating Interactive and Insightful Data Visualizations in [Tableau public](https://public.tableau.com/app/profile/natalia.molina7375).
+`Python` (Pandas, Matplotlib, Seaborn) · `SQL` (MySQL, SQLite) ·
+`Power BI` · `Tableau` · ETL & data pipelines
 
+## Featured work
 
-### Some of my best works 🚀
-
--  Automatic Number Plate Reconigtion, implemented using SVM for character reconigtion. This is my work about ML and computer vision (Final project to Electrical engineering degree) . [ANPR](https://github.com/NataliaMolinaR/TDG_ANPRwithSVM/blob/main/EIETdeG.pdf)
-
-- [Covid Impact in 2023 Dashboard](https://public.tableau.com/app/profile/natalia.molina7375/viz/CovidAnalysis2023_16823665003210/Dashboard1) - Check how is your country going in this map! 
-
-
-### More about me 
-
-- 🔧 As an engineer I gain a strong analytical and problem-solving skills.
-- 📊 Curiosity for discover patterns behind data in everyday situations.
-- 📅 I'm organized and able to adapt unexpected changes.
-- 👥 As I developed project I build effective communication and teamwork skills.
-- 🧠 I'm passionate for human behaviour. 
+**SmartBudget** — a personal-finance automation system: automated QFX
+ingestion, FITID-based deduplication, a star-schema data model
+(fact & dimension tables), and Power BI dashboards built on real data.
 
 
+## Currently
+
+- Building out interactive dashboards in Power BI
+- Focused on data quality and deduplication in real-world datasets
